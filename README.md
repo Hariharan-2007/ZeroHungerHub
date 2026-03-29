@@ -1,1 +1,1 @@
-# ZeroHungerHub
+ZeroHunger Hub is an AI-assisted mobile app built using Kiro to reduce food waste and hunger. It connects donors with volunteers, allowing users to donate food, accept requests, and track delivery status. The app includes features like an expiry countdown timer and meals saved counter to ensure timely distribution and measure impact effectively.
